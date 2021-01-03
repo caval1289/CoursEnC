@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607092636 source:c:\users\cavaleri\onedrive\bureau\openclassrooms langage c\calcul_variable\main.c
+	<stdio.h>
+	<stdlib.h>
+
